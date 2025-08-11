@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'page_a.dart';
 import 'page_b.dart';
-import 'page_c.dart';
+import 'page_c.dart'; // pcath to PageC
 
 void main() {
   runApp(const MyApp());
